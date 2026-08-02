@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2023336680711659520",
+    "conversation_id": "2066011812248846551",
+    "created_at": "2026-06-14T04:16:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T05:16:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066011812248846551"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2066011812248846551",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "昨天o大了在医院醒来   前面以为我爸妈都是ai   我以为我在玩游戏    然后我的身份是不在病床上就活不下去的小女孩      后面清醒过来发现自己真的在医院    天塌了  我剩下的药都被收走了    我爸晚点还想跟我聊天"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023336680711659520",
+        "conversation_id": "2066011812248846551",
+        "created_at": "2026-06-14T04:16:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T05:16:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066011812248846551"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066011812248846551",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨天o大了在医院醒来   前面以为我爸妈都是ai   我以为我在玩游戏    然后我的身份是不在病床上就活不下去的小女孩      后面清醒过来发现自己真的在医院    天塌了  我剩下的药都被收走了    我爸晚点还想跟我聊天"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-16T10:00:42.000Z",
+        "description": "od/双相/堕落/餐券/阴暗/缺爱/双性恋/挂壁/湖南\n想和同好互fo 如果没有回fo请私信我qwq\n无聊和我同城的人可以来找我玩\n欢迎萌妹子们来找我玩",
+        "id": "2023336680711659520",
+        "name": "恋痛",
+        "pinned_tweet_id": "2054509094925689018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049847795666849792/23s_rbJK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 49,
+          "like_count": 75,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 227
+        },
+        "username": "lintng24863",
+        "verified": false
+      }
+    ]
+  }
+}

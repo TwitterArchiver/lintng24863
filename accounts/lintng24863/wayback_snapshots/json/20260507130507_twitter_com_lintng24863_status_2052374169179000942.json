@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052374108625924097"
+      ]
+    },
+    "author_id": "2023336680711659520",
+    "conversation_id": "2052374169179000942",
+    "created_at": "2026-05-07T13:05:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T14:05:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052374169179000942"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ht8gdF60ln",
+          "end": 66,
+          "expanded_url": "https://x.com/lintng24863/status/2052374169179000942/photo/1",
+          "media_key": "3_2052374108625924097",
+          "start": 43,
+          "url": "https://t.co/Ht8gdF60ln"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052374169179000942",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "大概就是磕药磕多了去找前男友在他面前割手要抱抱然后疯狂辱骂他…我有病  他脾气怪好的 https://t.co/Ht8gdF60ln"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2052374108625924097",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHt_YLrbcAE7pjq.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052374108625924097"
+          ]
+        },
+        "author_id": "2023336680711659520",
+        "conversation_id": "2052374169179000942",
+        "created_at": "2026-05-07T13:05:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T14:05:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052374169179000942"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ht8gdF60ln",
+              "end": 66,
+              "expanded_url": "https://x.com/lintng24863/status/2052374169179000942/photo/1",
+              "media_key": "3_2052374108625924097",
+              "start": 43,
+              "url": "https://t.co/Ht8gdF60ln"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052374169179000942",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大概就是磕药磕多了去找前男友在他面前割手要抱抱然后疯狂辱骂他…我有病  他脾气怪好的 https://t.co/Ht8gdF60ln"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-16T10:00:42.000Z",
+        "description": "od/双相/堕落/互fo中/广州/自🔪\n欢迎萌妹子们来找我玩",
+        "id": "2023336680711659520",
+        "name": "恋痛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049847795666849792/23s_rbJK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 19,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 55
+        },
+        "username": "lintng24863",
+        "verified": false
+      }
+    ]
+  }
+}

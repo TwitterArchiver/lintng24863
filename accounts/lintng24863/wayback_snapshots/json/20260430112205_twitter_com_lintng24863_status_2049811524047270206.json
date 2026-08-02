@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2049811420091432960"
+      ]
+    },
+    "author_id": "2023336680711659520",
+    "conversation_id": "2049811524047270206",
+    "created_at": "2026-04-30T11:22:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T12:22:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049811524047270206"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wAG9LnM4bc",
+          "end": 34,
+          "expanded_url": "https://x.com/lintng24863/status/2049811524047270206/video/1",
+          "media_key": "13_2049811420091432960",
+          "start": 11,
+          "url": "https://t.co/wAG9LnM4bc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049811524047270206",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "凡事都会保护我吗哥哥 https://t.co/wAG9LnM4bc"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10633,
+        "height": 1280,
+        "media_key": "13_2049811420091432960",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2049811420091432960/img/uOV6F3Weir3Y3yh5.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049811420091432960/vid/avc1/320x568/iocV_b5fSdryei1t.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049811420091432960/vid/avc1/480x852/Ys5UHx6FtgMH7_UD.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049811420091432960/vid/avc1/720x1280/rz5Zm-LtN5bGkZ-t.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2049811420091432960/pl/RnLkjSAJrmkJPzqe.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2049811420091432960"
+          ]
+        },
+        "author_id": "2023336680711659520",
+        "conversation_id": "2049811524047270206",
+        "created_at": "2026-04-30T11:22:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T12:22:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049811524047270206"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wAG9LnM4bc",
+              "end": 34,
+              "expanded_url": "https://x.com/lintng24863/status/2049811524047270206/video/1",
+              "media_key": "13_2049811420091432960",
+              "start": 11,
+              "url": "https://t.co/wAG9LnM4bc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049811524047270206",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "凡事都会保护我吗哥哥 https://t.co/wAG9LnM4bc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-16T10:00:42.000Z",
+        "description": "od/双相/堕落",
+        "id": "2023336680711659520",
+        "name": "恋痛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049781140265857024/7553qrsj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 2,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 2
+        },
+        "username": "lintng24863",
+        "verified": false
+      }
+    ]
+  }
+}

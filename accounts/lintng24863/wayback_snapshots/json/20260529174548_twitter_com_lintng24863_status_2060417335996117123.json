@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2023336680711659520",
+    "conversation_id": "2060398312554188859",
+    "created_at": "2026-05-29T17:45:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T18:45:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060417335996117123"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1929070811241132032",
+          "start": 0,
+          "username": "GGGisena"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060417335996117123",
+    "in_reply_to_user_id": "1929070811241132032",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060398312554188859",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GGGisena 哇塞太幸福了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2060398302320041984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJgBVumaoAA_10y.jpg",
+        "width": 1579
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2060398302307504133",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJgBVujbUAUWh6F.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023336680711659520",
+        "conversation_id": "2060398312554188859",
+        "created_at": "2026-05-29T17:45:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T18:45:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060417335996117123"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1929070811241132032",
+              "start": 0,
+              "username": "GGGisena"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060417335996117123",
+        "in_reply_to_user_id": "1929070811241132032",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060398312554188859",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GGGisena 哇塞太幸福了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060398302320041984",
+            "3_2060398302307504133"
+          ]
+        },
+        "author_id": "1929070811241132032",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2060398312554188859",
+        "created_at": "2026-05-29T16:30:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T17:30:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060398312554188859"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AFkjcOeOL5",
+              "end": 66,
+              "expanded_url": "https://x.com/GGGisena/status/2060398312554188859/photo/1",
+              "media_key": "3_2060398302320041984",
+              "start": 43,
+              "url": "https://t.co/AFkjcOeOL5"
+            },
+            {
+              "display_url": "pic.x.com/AFkjcOeOL5",
+              "end": 66,
+              "expanded_url": "https://x.com/GGGisena/status/2060398312554188859/photo/1",
+              "media_key": "3_2060398302307504133",
+              "start": 43,
+              "url": "https://t.co/AFkjcOeOL5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060398312554188859",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "拆开青春礼家书发现有钱啊啊啊啊啊，我的原生家庭也不痛了抑郁症焦虑症Adhd也突然好了 https://t.co/AFkjcOeOL5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-16T10:00:42.000Z",
+        "description": "od/双相/堕落/餐券/阴暗/缺爱/双性恋/挂壁\n想和同好互fo\n无聊和我同城的人可以来找我玩\n主页很多🩸图 \n欢迎萌妹子们来找我玩",
+        "id": "2023336680711659520",
+        "name": "恋痛",
+        "pinned_tweet_id": "2054509094925689018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049847795666849792/23s_rbJK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 47,
+          "like_count": 60,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 192
+        },
+        "username": "lintng24863",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-01T07:01:45.000Z",
+        "description": "ElleWu｜10年12月｜东莞/中山｜同类直fo｜餐卷｜戒割o中｜",
+        "id": "1929070811241132032",
+        "location": "3.1km",
+        "name": "Ellaaa",
+        "pinned_tweet_id": "2047497800951435522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056292303548170240/csrJSFGR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262,
+          "following_count": 209,
+          "like_count": 523,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 539
+        },
+        "username": "GGGisena",
+        "verified": false
+      }
+    ]
+  }
+}

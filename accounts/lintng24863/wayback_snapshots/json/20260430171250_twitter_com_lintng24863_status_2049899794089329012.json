@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2023336680711659520",
+    "conversation_id": "2049899794089329012",
+    "created_at": "2026-04-30T17:12:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T18:12:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049899794089329012"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2013321876224057344",
+          "start": 3,
+          "username": "OTxiashu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049899794089329012",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 47
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049367322947912082",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @OTxiashu: 真正强大的oder:\n美金刚（精神分裂享受者）、右美沙芬（高原攀登者）、金刚烷胺（影子人操纵者）、苯海索（谵妄拥有者）、普瑞巴林（永远保持空腹之人）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023336680711659520",
+        "conversation_id": "2049899794089329012",
+        "created_at": "2026-04-30T17:12:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T18:12:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049899794089329012"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2013321876224057344",
+              "start": 3,
+              "username": "OTxiashu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049899794089329012",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 47
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049367322947912082",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @OTxiashu: 真正强大的oder:\n美金刚（精神分裂享受者）、右美沙芬（高原攀登者）、金刚烷胺（影子人操纵者）、苯海索（谵妄拥有者）、普瑞巴林（永远保持空腹之人）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013321876224057344",
+        "conversation_id": "2049367322947912082",
+        "created_at": "2026-04-29T05:56:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T06:56:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049367322947912082"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049367322947912082",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 17498,
+          "like_count": 361,
+          "quote_count": 12,
+          "reply_count": 27,
+          "retweet_count": 47
+        },
+        "reply_settings": "everyone",
+        "text": "真正强大的oder:\n美金刚（精神分裂享受者）、右美沙芬（高原攀登者）、金刚烷胺（影子人操纵者）、苯海索（谵妄拥有者）、普瑞巴林（永远保持空腹之人）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-16T10:00:42.000Z",
+        "description": "od/双相/堕落/互fo中\n欢迎萌妹子们来找我玩",
+        "id": "2023336680711659520",
+        "name": "恋痛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049847795666849792/23s_rbJK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 2,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 7
+        },
+        "username": "lintng24863",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-19T18:46:10.000Z",
+        "description": "无我梦中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ot78725",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ot78725",
+                "start": 0,
+                "url": "https://t.co/RFlA1XtlG6"
+              }
+            ]
+          }
+        },
+        "id": "2013321876224057344",
+        "location": "沃尔库塔-5",
+        "name": "OT夏树",
+        "pinned_tweet_id": "2045458839068356985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048795940132356096/qEoI3YLY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 652,
+          "following_count": 534,
+          "like_count": 9935,
+          "listed_count": 0,
+          "media_count": 275,
+          "tweet_count": 3894
+        },
+        "url": "https://t.co/RFlA1XtlG6",
+        "username": "OTxiashu",
+        "verified": false
+      }
+    ]
+  }
+}

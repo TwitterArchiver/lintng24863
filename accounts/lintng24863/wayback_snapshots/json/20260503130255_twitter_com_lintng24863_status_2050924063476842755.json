@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2023336680711659520",
+    "conversation_id": "2050904547174793325",
+    "created_at": "2026-05-03T13:02:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T14:02:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050924063476842755"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1684269091849404416",
+          "start": 0,
+          "username": "hg3551019177402"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050924063476842755",
+    "in_reply_to_user_id": "1684269091849404416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050912869630521463",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hg3551019177402 我哭了   别人和我说好爽让我去买  我还问了好几遍能不能吃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023336680711659520",
+        "conversation_id": "2050904547174793325",
+        "created_at": "2026-05-03T13:02:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T14:02:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050924063476842755"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1684269091849404416",
+              "start": 0,
+              "username": "hg3551019177402"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050924063476842755",
+        "in_reply_to_user_id": "1684269091849404416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050912869630521463",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hg3551019177402 我哭了   别人和我说好爽让我去买  我还问了好几遍能不能吃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684269091849404416",
+        "conversation_id": "2050904547174793325",
+        "created_at": "2026-05-03T12:18:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T13:18:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050912869630521463"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2023336680711659520",
+              "start": 0,
+              "username": "lintng24863"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050912869630521463",
+        "in_reply_to_user_id": "2023336680711659520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050904547174793325",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lintng24863 这个吃不了的，就是普通布洛芬。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-16T10:00:42.000Z",
+        "description": "od/双相/堕落/互fo中/广东\n欢迎萌妹子们来找我玩",
+        "id": "2023336680711659520",
+        "name": "恋痛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049847795666849792/23s_rbJK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 10,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 19
+        },
+        "username": "lintng24863",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "description": "干点烟代，电子烟纸烟 第一个老板被我开除了，太黑了，第二个已经是我好兄弟了，可散发，邮费12买的多包邮，也有电子烟，什么都有，问，一些高端稀缺的可能要等一下好兄弟问价格。",
+        "id": "1684269091849404416",
+        "name": "12",
+        "pinned_tweet_id": "2049802773710151920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045697198890119168/n-jopRK7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 757,
+          "following_count": 742,
+          "like_count": 18198,
+          "listed_count": 1,
+          "media_count": 633,
+          "tweet_count": 9221
+        },
+        "username": "hg3551019177402",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2061607476978487296"
+      ]
+    },
+    "author_id": "2023336680711659520",
+    "conversation_id": "2061607631349780509",
+    "created_at": "2026-06-02T00:35:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T01:35:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061607631349780509"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vXEMx3qe1s",
+          "end": 23,
+          "expanded_url": "https://x.com/lintng24863/status/2061607631349780509/video/1",
+          "media_key": "13_2061607476978487296",
+          "start": 0,
+          "url": "https://t.co/vXEMx3qe1s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061607631349780509",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/vXEMx3qe1s"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12961,
+        "height": 1280,
+        "media_key": "13_2061607476978487296",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2061607476978487296/img/24SgtY-AXNxLzn_w.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2061607476978487296/vid/avc1/320x568/DwDsjqUTfM8MoYHG.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2061607476978487296/vid/avc1/480x852/bYllEApn5KWkvwMa.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2061607476978487296/vid/avc1/720x1280/uAhf0_0wJXe9JuG5.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2061607476978487296/pl/j1QBO2qOO3ouiHWQ.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2061607476978487296"
+          ]
+        },
+        "author_id": "2023336680711659520",
+        "conversation_id": "2061607631349780509",
+        "created_at": "2026-06-02T00:35:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T01:35:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061607631349780509"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vXEMx3qe1s",
+              "end": 23,
+              "expanded_url": "https://x.com/lintng24863/status/2061607631349780509/video/1",
+              "media_key": "13_2061607476978487296",
+              "start": 0,
+              "url": "https://t.co/vXEMx3qe1s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061607631349780509",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/vXEMx3qe1s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-16T10:00:42.000Z",
+        "description": "od/双相/堕落/餐券/阴暗/缺爱/双性恋/挂壁/湖南\n想和同好互fo 如果没有回fo请私信我qwq\n无聊和我同城的人可以来找我玩\n欢迎萌妹子们来找我玩",
+        "id": "2023336680711659520",
+        "name": "恋痛",
+        "pinned_tweet_id": "2054509094925689018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049847795666849792/23s_rbJK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 47,
+          "like_count": 60,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 193
+        },
+        "username": "lintng24863",
+        "verified": false
+      }
+    ]
+  }
+}

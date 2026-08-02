@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2023336680711659520",
+    "conversation_id": "2079499295926239324",
+    "created_at": "2026-07-22T18:08:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T19:08:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079992102495387906"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "357539288",
+          "start": 0,
+          "username": "Surajazeem"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079992102495387906",
+    "in_reply_to_user_id": "357539288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079499295926239324",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Surajazeem 我是傻逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023336680711659520",
+        "conversation_id": "2079499295926239324",
+        "created_at": "2026-07-22T18:08:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T19:08:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079992102495387906"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "357539288",
+              "start": 0,
+              "username": "Surajazeem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079992102495387906",
+        "in_reply_to_user_id": "357539288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079499295926239324",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Surajazeem 我是傻逼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "357539288",
+        "conversation_id": "2079499295926239324",
+        "created_at": "2026-07-21T09:30:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T10:30:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079499295926239324"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079499295926239324",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 9040,
+          "like_count": 149,
+          "quote_count": 2,
+          "reply_count": 27,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "嗑药吸毒的都是傻逼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-16T10:00:42.000Z",
+        "description": "od/双相/堕落/餐券/阴暗/缺爱/双性恋/湖南\n想和同好互fo 如果没有回fo请私信我qwq\n无聊和我同城的人可以来找我玩\n一个无人在意的社交孤儿",
+        "id": "2023336680711659520",
+        "name": "思痛",
+        "pinned_tweet_id": "2054509094925689018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049847795666849792/23s_rbJK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 44,
+          "like_count": 103,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 282
+        },
+        "url": "",
+        "username": "lintng24863",
+        "verified": false
+      },
+      {
+        "created_at": "2011-08-18T14:39:37.000Z",
+        "description": "我恨msk，拿了我的钱还这样我他妈的\n我是霖。\n第十八个号。\n辣条已过气。\n妈妈@Shivam3228\n牛马💊 @AminoXx_killer \n媳妇@Ririka12208",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 40,
+                "username": "Shivam3228"
+              },
+              {
+                "end": 71,
+                "start": 56,
+                "username": "AminoXx_killer"
+              },
+              {
+                "end": 87,
+                "start": 75,
+                "username": "Ririka12208"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ii_rin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ii_rin",
+                "start": 0,
+                "url": "https://t.co/WT9iFGe2NG"
+              }
+            ]
+          }
+        },
+        "id": "357539288",
+        "location": "msk身后",
+        "name": "雨林18+",
+        "pinned_tweet_id": "2074845970169577745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079816271148023808/1pDQllIf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 401,
+          "following_count": 280,
+          "like_count": 1581,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 931
+        },
+        "url": "https://t.co/WT9iFGe2NG",
+        "username": "Surajazeem",
+        "verified": false
+      }
+    ]
+  }
+}

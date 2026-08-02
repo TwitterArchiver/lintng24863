@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052306196929839109"
+      ]
+    },
+    "author_id": "2023336680711659520",
+    "conversation_id": "2052306217318441101",
+    "created_at": "2026-05-07T08:35:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T09:35:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052306217318441101"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/77WBATe0wp",
+          "end": 37,
+          "expanded_url": "https://x.com/lintng24863/status/2052306217318441101/photo/1",
+          "media_key": "3_2052306196929839109",
+          "start": 14,
+          "url": "https://t.co/77WBATe0wp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052306217318441101",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在医院好累  不想看医生… https://t.co/77WBATe0wp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2052306196929839109",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHtBnM5WAAULbAC.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052306196929839109"
+          ]
+        },
+        "author_id": "2023336680711659520",
+        "conversation_id": "2052306217318441101",
+        "created_at": "2026-05-07T08:35:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T09:35:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052306217318441101"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/77WBATe0wp",
+              "end": 37,
+              "expanded_url": "https://x.com/lintng24863/status/2052306217318441101/photo/1",
+              "media_key": "3_2052306196929839109",
+              "start": 14,
+              "url": "https://t.co/77WBATe0wp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052306217318441101",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在医院好累  不想看医生… https://t.co/77WBATe0wp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-16T10:00:42.000Z",
+        "description": "od/双相/堕落/互fo中/广州/自🔪\n欢迎萌妹子们来找我玩",
+        "id": "2023336680711659520",
+        "name": "恋痛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049847795666849792/23s_rbJK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 17,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 53
+        },
+        "username": "lintng24863",
+        "verified": false
+      }
+    ]
+  }
+}

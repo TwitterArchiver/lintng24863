@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2023336680711659520",
+    "conversation_id": "2076375028237812209",
+    "created_at": "2026-07-14T03:39:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T04:39:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076874293406036294"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1978060074099568640",
+          "start": 0,
+          "username": "JiZhou31140"
+        },
+        {
+          "end": 24,
+          "id": "1778719380639014913",
+          "start": 13,
+          "username": "Ancde_1118"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076874293406036294",
+    "in_reply_to_user_id": "1978060074099568640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076646166469738990",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JiZhou31140 @Ancde_1118 见鬼还差不多  真是给脑子吃坏了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023336680711659520",
+        "conversation_id": "2076375028237812209",
+        "created_at": "2026-07-14T03:39:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T04:39:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076874293406036294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1978060074099568640",
+              "start": 0,
+              "username": "JiZhou31140"
+            },
+            {
+              "end": 24,
+              "id": "1778719380639014913",
+              "start": 13,
+              "username": "Ancde_1118"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076874293406036294",
+        "in_reply_to_user_id": "1978060074099568640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076646166469738990",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JiZhou31140 @Ancde_1118 见鬼还差不多  真是给脑子吃坏了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978060074099568640",
+        "conversation_id": "2076375028237812209",
+        "created_at": "2026-07-13T12:33:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T13:33:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076646166469738990"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1778719380639014913",
+              "start": 0,
+              "username": "Ancde_1118"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076646166469738990",
+        "in_reply_to_user_id": "1778719380639014913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1014,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076375028237812209",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ancde_1118 全是傻子呀，一堆人传感康能变白能变瘦 还能见到爱人，逗我呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-16T10:00:42.000Z",
+        "description": "od/双相/堕落/餐券/阴暗/缺爱/双性恋/湖南\n想和同好互fo 如果没有回fo请私信我qwq\n无聊和我同城的人可以来找我玩\n一个无人在意的社交孤儿",
+        "id": "2023336680711659520",
+        "name": "思痛",
+        "pinned_tweet_id": "2054509094925689018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049847795666849792/23s_rbJK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 41,
+          "like_count": 95,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 267
+        },
+        "url": "",
+        "username": "lintng24863",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-14T11:27:38.000Z",
+        "description": "",
+        "id": "1978060074099568640",
+        "name": "😹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054845364143009792/AuybDnu-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 50,
+          "like_count": 2251,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 175
+        },
+        "url": "",
+        "username": "JiZhou31140",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分 od ed 割手/我是穿孔师/tg@Sakura_sakura01118/不经常上线找我直接DM/可以找我买电子烟（不卖加料的 只是普通电子烟 想买加料的请不要私信我）我想交朋友 互fo互转大欢迎 ¯꒳¯",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sakura1118",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sakura1118",
+                "start": 0,
+                "url": "https://t.co/puqa4nzVpC"
+              }
+            ]
+          }
+        },
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "2062956340960706641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 688,
+          "following_count": 672,
+          "like_count": 153,
+          "listed_count": 0,
+          "media_count": 261,
+          "tweet_count": 1669
+        },
+        "url": "https://t.co/puqa4nzVpC",
+        "username": "Ancde_1118",
+        "verified": false
+      }
+    ]
+  }
+}

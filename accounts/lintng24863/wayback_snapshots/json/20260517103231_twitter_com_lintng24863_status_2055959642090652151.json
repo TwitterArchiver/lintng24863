@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2023336680711659520",
+    "conversation_id": "2055930266687086681",
+    "created_at": "2026-05-17T10:32:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T11:32:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055959642090652151"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1995074945429458944",
+          "start": 0,
+          "username": "mizuiro3144"
+        },
+        {
+          "end": 24,
+          "id": "2054877291633909760",
+          "start": 13,
+          "username": "TransYuwen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055959642090652151",
+    "in_reply_to_user_id": "1995074945429458944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055955372389896367",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mizuiro3144 @TransYuwen 是的…我要疯了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023336680711659520",
+        "conversation_id": "2055930266687086681",
+        "created_at": "2026-05-17T10:32:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T11:32:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055959642090652151"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1995074945429458944",
+              "start": 0,
+              "username": "mizuiro3144"
+            },
+            {
+              "end": 24,
+              "id": "2054877291633909760",
+              "start": 13,
+              "username": "TransYuwen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055959642090652151",
+        "in_reply_to_user_id": "1995074945429458944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055955372389896367",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mizuiro3144 @TransYuwen 是的…我要疯了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995074945429458944",
+        "conversation_id": "2055930266687086681",
+        "created_at": "2026-05-17T10:15:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T11:15:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055955372389896367"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2023336680711659520",
+              "start": 0,
+              "username": "lintng24863"
+            },
+            {
+              "end": 24,
+              "id": "2054877291633909760",
+              "start": 13,
+              "username": "TransYuwen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055955372389896367",
+        "in_reply_to_user_id": "2023336680711659520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055931633413587168",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lintng24863 @TransYuwen 以前天天去。傻B麦洲岛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-16T10:00:42.000Z",
+        "description": "od/双相/10/堕落/广州/餐券/阴暗/缺爱/双性恋/挂壁\n想和同好互fo\n无聊和我同城的人可以来找我玩\n主页很多🩸图 \n欢迎萌妹子们来找我玩",
+        "id": "2023336680711659520",
+        "name": "恋痛",
+        "pinned_tweet_id": "2054509094925689018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049847795666849792/23s_rbJK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 36,
+          "like_count": 47,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 154
+        },
+        "username": "lintng24863",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-30T10:18:40.000Z",
+        "description": "05/长发蝻/双相/od/🔪/广州。",
+        "id": "1995074945429458944",
+        "location": "Hong Kong",
+        "name": "mizuiro",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995075507378110464/FrPunWsV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 279,
+          "like_count": 3933,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 1117
+        },
+        "username": "mizuiro3144",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-14T10:51:46.000Z",
+        "description": "MtF 🏳️‍⚧️| 有证 🍥:2025/6/30|药娘小资历皇帝| ENFP| | 174厘米 | 75公斤 | 阿德莱德墨尔本游荡 |私信互fo | 不OD | 不自残 | 不抽烟 | 不喝酒 |轻度双相情感障碍|",
+        "id": "2054877291633909760",
+        "location": "Melb",
+        "name": "唐毓文🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2055211584138736084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055209660245045248/r3mq9G7h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 18,
+          "like_count": 41,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 186
+        },
+        "username": "TransYuwen",
+        "verified": false
+      }
+    ]
+  }
+}

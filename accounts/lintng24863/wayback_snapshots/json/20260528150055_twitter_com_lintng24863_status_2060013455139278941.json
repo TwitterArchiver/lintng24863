@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2023336680711659520",
+    "conversation_id": "2060013455139278941",
+    "created_at": "2026-05-28T15:00:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T16:00:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060013455139278941"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2060013455139278941",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "要回湖南去了  还有20盒加巴喷丁带不走   有没有推友在广州或者东莞  可以来找我 免费送药"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023336680711659520",
+        "conversation_id": "2060013455139278941",
+        "created_at": "2026-05-28T15:00:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T16:00:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060013455139278941"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060013455139278941",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "要回湖南去了  还有20盒加巴喷丁带不走   有没有推友在广州或者东莞  可以来找我 免费送药"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-16T10:00:42.000Z",
+        "description": "od/双相/堕落/广州/餐券/阴暗/缺爱/双性恋/挂壁\n想和同好互fo\n无聊和我同城的人可以来找我玩\n主页很多🩸图 \n欢迎萌妹子们来找我玩",
+        "id": "2023336680711659520",
+        "name": "恋痛",
+        "pinned_tweet_id": "2054509094925689018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049847795666849792/23s_rbJK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 41,
+          "like_count": 57,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 184
+        },
+        "username": "lintng24863",
+        "verified": false
+      }
+    ]
+  }
+}

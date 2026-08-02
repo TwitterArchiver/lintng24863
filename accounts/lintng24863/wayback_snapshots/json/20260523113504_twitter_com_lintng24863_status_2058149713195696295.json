@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2023336680711659520",
+    "conversation_id": "2056351330307133900",
+    "created_at": "2026-05-23T11:35:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T12:35:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058149713195696295"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1809604484173295620",
+          "start": 0,
+          "username": "for_4ngel"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058149713195696295",
+    "in_reply_to_user_id": "1809604484173295620",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056979964147437924",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@for_4ngel 我试过了两次愈美➕喹硫平丙戊酸镁思诺思   昏迷了两次   一次在家里把东西都撞翻上了救护车  一次躺街上叫的救护车"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023336680711659520",
+        "conversation_id": "2056351330307133900",
+        "created_at": "2026-05-23T11:35:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T12:35:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058149713195696295"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1809604484173295620",
+              "start": 0,
+              "username": "for_4ngel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058149713195696295",
+        "in_reply_to_user_id": "1809604484173295620",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056979964147437924",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@for_4ngel 我试过了两次愈美➕喹硫平丙戊酸镁思诺思   昏迷了两次   一次在家里把东西都撞翻上了救护车  一次躺街上叫的救护车"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809604484173295620",
+        "conversation_id": "2056351330307133900",
+        "created_at": "2026-05-20T06:06:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T07:06:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056979964147437924"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2023336680711659520",
+              "start": 0,
+              "username": "lintng24863"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056979964147437924",
+        "in_reply_to_user_id": "2023336680711659520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 108,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056351330307133900",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lintng24863 如果是碳酸锂+安非他酮这类的话会降低癫痫阈值本身就容易诱发癫痫o普瑞之后普瑞的反弹钙离子内流会很容易触发癫痫"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-16T10:00:42.000Z",
+        "description": "od/双相/10/堕落/广州/餐券/阴暗/缺爱/双性恋/挂壁\n想和同好互fo\n无聊和我同城的人可以来找我玩\n主页很多🩸图 \n欢迎萌妹子们来找我玩",
+        "id": "2023336680711659520",
+        "name": "恋痛",
+        "pinned_tweet_id": "2054509094925689018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049847795666849792/23s_rbJK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 36,
+          "like_count": 49,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 164
+        },
+        "username": "lintng24863",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-06T15:05:18.000Z",
+        "description": "07  |♂ | 双相情感障碍  | 自残 | OD | 学过一些人格学，心理学以及药理学 最擅长的是依恋人格学和人格障碍学还有一些od相关的药理学，有问题可以来找我乐意解答~",
+        "id": "1809604484173295620",
+        "location": "中国",
+        "name": "Angel",
+        "pinned_tweet_id": "2058112521895374921",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058112788934098944/ke7b7Se3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 293,
+          "like_count": 71,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 75
+        },
+        "username": "for_4ngel",
+        "verified": false
+      }
+    ]
+  }
+}

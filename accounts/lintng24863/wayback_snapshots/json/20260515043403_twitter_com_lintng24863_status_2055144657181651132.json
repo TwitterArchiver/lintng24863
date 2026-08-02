@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2055144333733761024"
+      ]
+    },
+    "author_id": "2023336680711659520",
+    "conversation_id": "2055144657181651132",
+    "created_at": "2026-05-15T04:34:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T05:34:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055144657181651132"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rDvaqJz10j",
+          "end": 32,
+          "expanded_url": "https://x.com/lintng24863/status/2055144657181651132/video/1",
+          "media_key": "13_2055144333733761024",
+          "start": 9,
+          "url": "https://t.co/rDvaqJz10j"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055144657181651132",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "和我一起走向死亡 https://t.co/rDvaqJz10j"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20200,
+        "height": 960,
+        "media_key": "13_2055144333733761024",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2055144333733761024/img/JXCnjc4LiDzmyxHq.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055144333733761024/vid/avc1/320x426/GQ79P0YR8zKG0D74.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055144333733761024/vid/avc1/480x640/H9lOT_WHyZl2upDY.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055144333733761024/vid/avc1/720x960/0avdmYiHxAgFNJMU.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2055144333733761024/pl/-ZsgQyTf2VqbbEUC.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2055144333733761024"
+          ]
+        },
+        "author_id": "2023336680711659520",
+        "conversation_id": "2055144657181651132",
+        "created_at": "2026-05-15T04:34:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T05:34:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055144657181651132"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rDvaqJz10j",
+              "end": 32,
+              "expanded_url": "https://x.com/lintng24863/status/2055144657181651132/video/1",
+              "media_key": "13_2055144333733761024",
+              "start": 9,
+              "url": "https://t.co/rDvaqJz10j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055144657181651132",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和我一起走向死亡 https://t.co/rDvaqJz10j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-16T10:00:42.000Z",
+        "description": "od/双相/10/堕落/广州/餐券/阴暗/缺爱/双性恋\n想和同好互fo\n无聊和我同城的人可以来找我玩\n主页很多🩸图 \n欢迎萌妹子们来找我玩",
+        "id": "2023336680711659520",
+        "name": "恋痛",
+        "pinned_tweet_id": "2054509094925689018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049847795666849792/23s_rbJK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 33,
+          "like_count": 31,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 139
+        },
+        "username": "lintng24863",
+        "verified": false
+      }
+    ]
+  }
+}

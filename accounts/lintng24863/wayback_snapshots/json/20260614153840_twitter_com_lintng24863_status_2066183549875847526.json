@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2023336680711659520",
+    "conversation_id": "2066125728224280851",
+    "created_at": "2026-06-14T15:38:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T16:38:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066183549875847526"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2057506162862686208",
+          "start": 0,
+          "username": "Luoyu147258"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066183549875847526",
+    "in_reply_to_user_id": "2057506162862686208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066125728224280851",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Luoyu147258 我也刷到了  贱种来的。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066125717793042432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKxaZL5acAAdD4K.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023336680711659520",
+        "conversation_id": "2066125728224280851",
+        "created_at": "2026-06-14T15:38:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T16:38:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066183549875847526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2057506162862686208",
+              "start": 0,
+              "username": "Luoyu147258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066183549875847526",
+        "in_reply_to_user_id": "2057506162862686208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066125728224280851",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Luoyu147258 我也刷到了  贱种来的。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066125717793042432"
+          ]
+        },
+        "author_id": "2057506162862686208",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2066125728224280851",
+        "created_at": "2026-06-14T11:48:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T12:48:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066125728224280851"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wHYJ8jeuPX",
+              "end": 30,
+              "expanded_url": "https://x.com/Luoyu147258/status/2066125728224280851/photo/1",
+              "media_key": "3_2066125717793042432",
+              "start": 7,
+              "url": "https://t.co/wHYJ8jeuPX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066125728224280851",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2416,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "墙内反复鞭尸 https://t.co/wHYJ8jeuPX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-16T10:00:42.000Z",
+        "description": "od/双相/堕落/餐券/阴暗/缺爱/双性恋/湖南\n想和同好互fo 如果没有回fo请私信我qwq\n无聊和我同城的人可以来找我玩\n欢迎萌妹子们来找我玩",
+        "id": "2023336680711659520",
+        "name": "恋痛",
+        "pinned_tweet_id": "2054509094925689018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049847795666849792/23s_rbJK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 49,
+          "like_count": 74,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 227
+        },
+        "username": "lintng24863",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-21T16:59:33.000Z",
+        "description": "｜🏳️‍⚧️🍥｜2012.03.06｜hrt：2025.01.24｜是家暴党｜✝️overdose✝️｜已炸柜｜已扭转｜已精卫｜双相｜互fo｜三代目｜对象@huyisusu｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 77,
+                "username": "huyisusu"
+              }
+            ]
+          }
+        },
+        "id": "2057506162862686208",
+        "name": "洛雨🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2059337200496722221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059336209282043904/BJPryx-y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 145,
+          "like_count": 237,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 96
+        },
+        "username": "Luoyu147258",
+        "verified": false
+      }
+    ]
+  }
+}

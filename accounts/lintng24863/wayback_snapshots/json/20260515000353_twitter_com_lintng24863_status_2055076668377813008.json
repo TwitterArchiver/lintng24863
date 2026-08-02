@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2023336680711659520",
+    "conversation_id": "2053675382675517668",
+    "created_at": "2026-05-15T00:03:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T01:03:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055076668377813008"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2013863981132455937",
+          "start": 0,
+          "username": "candle0099"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055076668377813008",
+    "in_reply_to_user_id": "2013863981132455937",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053675382675517668",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@candle0099 小妹妹要不要和我回家"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2053675368532312065",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIAe3elWgAEU3ws.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023336680711659520",
+        "conversation_id": "2053675382675517668",
+        "created_at": "2026-05-15T00:03:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T01:03:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055076668377813008"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2013863981132455937",
+              "start": 0,
+              "username": "candle0099"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055076668377813008",
+        "in_reply_to_user_id": "2013863981132455937",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053675382675517668",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@candle0099 小妹妹要不要和我回家"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053675368532312065"
+          ]
+        },
+        "author_id": "2013863981132455937",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2053675382675517668",
+        "created_at": "2026-05-11T03:15:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T04:15:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053675382675517668"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2OYZu0y6Te",
+              "end": 30,
+              "expanded_url": "https://x.com/candle0099/status/2053675382675517668/photo/1",
+              "media_key": "3_2053675368532312065",
+              "start": 7,
+              "url": "https://t.co/2OYZu0y6Te"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053675382675517668",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 103,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哥哥我摔倒了 https://t.co/2OYZu0y6Te"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-16T10:00:42.000Z",
+        "description": "od/双相/10/堕落/互fo中/广州/餐券/阴暗/缺爱/双性恋\n无聊和我同城的人可以来找我玩\n主页很多🩸图 \n欢迎萌妹子们来找我玩",
+        "id": "2023336680711659520",
+        "name": "恋痛",
+        "pinned_tweet_id": "2054509094925689018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049847795666849792/23s_rbJK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 31,
+          "like_count": 29,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 134
+        },
+        "username": "lintng24863",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-21T06:39:32.000Z",
+        "description": "",
+        "id": "2013863981132455937",
+        "location": "在你心里",
+        "name": "烛芯",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050699347675820032/Gn0z3DuD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 69,
+          "like_count": 62,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 36
+        },
+        "username": "candle0099",
+        "verified": false
+      }
+    ]
+  }
+}

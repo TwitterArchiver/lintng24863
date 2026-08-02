@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2023336680711659520",
+    "conversation_id": "2061612933080060103",
+    "created_at": "2026-06-04T11:05:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T12:05:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062490976120385988"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1918326879179948033",
+          "start": 0,
+          "username": "shuangshenglai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062490976120385988",
+    "in_reply_to_user_id": "1918326879179948033",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061691720891555981",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shuangshenglai 收到呀😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023336680711659520",
+        "conversation_id": "2061612933080060103",
+        "created_at": "2026-06-04T11:05:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T12:05:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062490976120385988"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918326879179948033",
+              "start": 0,
+              "username": "shuangshenglai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062490976120385988",
+        "in_reply_to_user_id": "1918326879179948033",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061691720891555981",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shuangshenglai 收到呀😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918326879179948033",
+        "conversation_id": "2061612933080060103",
+        "created_at": "2026-06-02T06:09:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T07:09:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061691720891555981"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2023336680711659520",
+              "start": 0,
+              "username": "lintng24863"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061691720891555981",
+        "in_reply_to_user_id": "2023336680711659520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061612933080060103",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lintng24863 如果能再多十道口子就更受欢迎啦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-16T10:00:42.000Z",
+        "description": "od/双相/堕落/餐券/阴暗/缺爱/双性恋/挂壁/湖南\n想和同好互fo 如果没有回fo请私信我qwq\n无聊和我同城的人可以来找我玩\n欢迎萌妹子们来找我玩",
+        "id": "2023336680711659520",
+        "name": "恋痛",
+        "pinned_tweet_id": "2054509094925689018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049847795666849792/23s_rbJK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 48,
+          "like_count": 61,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 201
+        },
+        "username": "lintng24863",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-02T15:29:25.000Z",
+        "description": "当你点进我主页看到这一行字的那一刻 你就已经输的很彻底 我的观点像刀刃一样已经深深刺进你的心 你试图反驳我 可是你无能为力 我的语言像拳头一样重重捶在你的胸口 所以你点开我主页想要窥探我的点滴细节 气急败坏的找到私信骂我 以满足自己的自尊 然后你发现我并不理你 你以为你赢了 其实是我不屑一顾",
+        "id": "1918326879179948033",
+        "name": "双生",
+        "pinned_tweet_id": "2028972608168112312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918327784428191744/IB_DbiwQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 0,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 277
+        },
+        "username": "shuangshenglai",
+        "verified": false
+      }
+    ]
+  }
+}

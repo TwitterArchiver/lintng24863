@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2050536095570677760"
+      ]
+    },
+    "author_id": "2023336680711659520",
+    "conversation_id": "2050536187363021222",
+    "created_at": "2026-05-02T11:21:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T12:21:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050536187363021222"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/KCry9NAnhK",
+          "end": 48,
+          "expanded_url": "https://x.com/lintng24863/status/2050536187363021222/video/1",
+          "media_key": "13_2050536095570677760",
+          "start": 25,
+          "url": "https://t.co/KCry9NAnhK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050536187363021222",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我就在街上这样爽o（最后失去意识被朋友抬回家了） https://t.co/KCry9NAnhK"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5705,
+        "height": 1280,
+        "media_key": "13_2050536095570677760",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2050536095570677760/img/juXlJ9FKsD5reHiB.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050536095570677760/vid/avc1/320x568/oSuZoKURlqbc2pPz.mp4?tag=27"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050536095570677760/vid/avc1/480x852/PNFA7_WyAm8g5dMV.mp4?tag=27"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050536095570677760/vid/avc1/720x1280/mdga1AFqDcQ5w2nz.mp4?tag=27"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2050536095570677760/pl/MZemioOnsLoQukCi.m3u8?tag=27"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2050536095570677760"
+          ]
+        },
+        "author_id": "2023336680711659520",
+        "conversation_id": "2050536187363021222",
+        "created_at": "2026-05-02T11:21:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T12:21:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050536187363021222"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KCry9NAnhK",
+              "end": 48,
+              "expanded_url": "https://x.com/lintng24863/status/2050536187363021222/video/1",
+              "media_key": "13_2050536095570677760",
+              "start": 25,
+              "url": "https://t.co/KCry9NAnhK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050536187363021222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我就在街上这样爽o（最后失去意识被朋友抬回家了） https://t.co/KCry9NAnhK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-16T10:00:42.000Z",
+        "description": "od/双相/堕落/互fo中\n欢迎萌妹子们来找我玩",
+        "id": "2023336680711659520",
+        "name": "恋痛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049847795666849792/23s_rbJK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 6,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 10
+        },
+        "username": "lintng24863",
+        "verified": false
+      }
+    ]
+  }
+}

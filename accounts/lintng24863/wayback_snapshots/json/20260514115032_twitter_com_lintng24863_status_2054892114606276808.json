@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2023336680711659520",
+    "conversation_id": "2054877700142280980",
+    "created_at": "2026-05-14T11:50:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T12:50:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054892114606276808"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1883768460993552385",
+          "start": 0,
+          "username": "XiShangguan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054892114606276808",
+    "in_reply_to_user_id": "1883768460993552385",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054877700142280980",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XiShangguan 宝宝可以买那种13号手术刀会出血也不会很深   这样就不会太难看啦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023336680711659520",
+        "conversation_id": "2054877700142280980",
+        "created_at": "2026-05-14T11:50:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T12:50:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054892114606276808"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1883768460993552385",
+              "start": 0,
+              "username": "XiShangguan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054892114606276808",
+        "in_reply_to_user_id": "1883768460993552385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054877700142280980",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiShangguan 宝宝可以买那种13号手术刀会出血也不会很深   这样就不会太难看啦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883768460993552385",
+        "conversation_id": "2054877700142280980",
+        "created_at": "2026-05-14T10:53:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T11:53:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054877700142280980"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054877700142280980",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "新的美工刀是给人用的吗，，割手连血都不出"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-16T10:00:42.000Z",
+        "description": "od/双相/10/堕落/互fo中/广州/餐券/阴暗/缺爱/双性恋\n无聊和我同城的人可以来找我玩\n主页很多🩸图 \n欢迎萌妹子们来找我玩",
+        "id": "2023336680711659520",
+        "name": "恋痛",
+        "pinned_tweet_id": "2054509094925689018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049847795666849792/23s_rbJK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 28,
+          "like_count": 29,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 131
+        },
+        "username": "lintng24863",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-27T06:47:27.000Z",
+        "description": "这里是上官曦✞08年生✞ODER✞性冷淡✞INFP✞查成分互fo，忘记麻烦私信✞私宅一枚✞喜欢日轻✞负能量⚠✞碎碎念✞术术人✞xp粉毛✞自毁倾向✞重度抑郁✞躯体化严重✞随时会死🕯️✞性别未知✞喜欢花譜✞至死追随@tngxngxng13171✞没能及时回信息致歉✞拒绝线下✞友跨✞精神科入住",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 105,
+                "username": "tngxngxng13171"
+              }
+            ]
+          }
+        },
+        "id": "1883768460993552385",
+        "location": "乌托邦",
+        "name": "上官朝日",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033812687277461507/y7sGn9v7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 275,
+          "following_count": 255,
+          "like_count": 7746,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 1899
+        },
+        "username": "XiShangguan",
+        "verified": false
+      }
+    ]
+  }
+}

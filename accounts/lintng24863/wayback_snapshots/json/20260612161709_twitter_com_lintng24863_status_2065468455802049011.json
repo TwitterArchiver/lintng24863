@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065468439184216064"
+      ]
+    },
+    "author_id": "2023336680711659520",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2065468455802049011",
+    "created_at": "2026-06-12T16:17:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T17:17:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065468455802049011"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3GdZRqHcdg",
+          "end": 38,
+          "expanded_url": "https://x.com/lintng24863/status/2065468455802049011/photo/1",
+          "media_key": "3_2065468439184216064",
+          "start": 15,
+          "url": "https://t.co/3GdZRqHcdg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065468455802049011",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "没有药物的世界我一秒都不想待 https://t.co/3GdZRqHcdg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2065468439184216064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKoEmiRbEAA4eO-.jpg",
+        "width": 778
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065468439184216064"
+          ]
+        },
+        "author_id": "2023336680711659520",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2065468455802049011",
+        "created_at": "2026-06-12T16:17:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T17:17:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065468455802049011"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3GdZRqHcdg",
+              "end": 38,
+              "expanded_url": "https://x.com/lintng24863/status/2065468455802049011/photo/1",
+              "media_key": "3_2065468439184216064",
+              "start": 15,
+              "url": "https://t.co/3GdZRqHcdg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065468455802049011",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没有药物的世界我一秒都不想待 https://t.co/3GdZRqHcdg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-16T10:00:42.000Z",
+        "description": "od/双相/堕落/餐券/阴暗/缺爱/双性恋/挂壁/湖南\n想和同好互fo 如果没有回fo请私信我qwq\n无聊和我同城的人可以来找我玩\n欢迎萌妹子们来找我玩",
+        "id": "2023336680711659520",
+        "name": "恋痛",
+        "pinned_tweet_id": "2054509094925689018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049847795666849792/23s_rbJK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 46,
+          "like_count": 61,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 211
+        },
+        "username": "lintng24863",
+        "verified": false
+      }
+    ]
+  }
+}

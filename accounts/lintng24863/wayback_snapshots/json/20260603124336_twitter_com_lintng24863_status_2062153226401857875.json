@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2023336680711659520",
+    "conversation_id": "2062153226401857875",
+    "created_at": "2026-06-03T12:43:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T13:43:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062153226401857875"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2014859848899559427",
+          "start": 3,
+          "username": "xuen12011"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062153226401857875",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062130255561998680",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xuen12011: 许愿一个天使o友 许愿餐券妹和我互fo\n求老婆们互fo互转"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023336680711659520",
+        "conversation_id": "2062153226401857875",
+        "created_at": "2026-06-03T12:43:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T13:43:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062153226401857875"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2014859848899559427",
+              "start": 3,
+              "username": "xuen12011"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062153226401857875",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062130255561998680",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xuen12011: 许愿一个天使o友 许愿餐券妹和我互fo\n求老婆们互fo互转"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014859848899559427",
+        "conversation_id": "2062130255561998680",
+        "created_at": "2026-06-03T11:12:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T12:12:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062130255561998680"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062130255561998680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 471,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "许愿一个天使o友 许愿餐券妹和我互fo\n求老婆们互fo互转"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-02-16T10:00:42.000Z",
+        "description": "od/双相/堕落/餐券/阴暗/缺爱/双性恋/挂壁/湖南\n想和同好互fo 如果没有回fo请私信我qwq\n无聊和我同城的人可以来找我玩\n欢迎萌妹子们来找我玩",
+        "id": "2023336680711659520",
+        "name": "恋痛",
+        "pinned_tweet_id": "2054509094925689018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049847795666849792/23s_rbJK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 48,
+          "like_count": 61,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 197
+        },
+        "username": "lintng24863",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-24T00:36:48.000Z",
+        "description": "｜小恩 entp｜od 重抑 重焦｜碎碎念 不键政｜\n｜非同类不回fo｜刻薄 温良 一体机｜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/enlyn5202",
+                "end": 23,
+                "expanded_url": "https://ngl.link/enlyn5202",
+                "start": 0,
+                "url": "https://t.co/X3Za98WAcQ"
+              }
+            ]
+          }
+        },
+        "id": "2014859848899559427",
+        "location": "下次见",
+        "name": "不是说好下次见吗",
+        "pinned_tweet_id": "2030656519981961405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058258745893978112/UUso0Efx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 678,
+          "following_count": 144,
+          "like_count": 4396,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 1322
+        },
+        "url": "https://t.co/X3Za98WAcQ",
+        "username": "xuen12011",
+        "verified": false
+      }
+    ]
+  }
+}
